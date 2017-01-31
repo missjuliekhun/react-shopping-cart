@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import addMore from './newItem';
 
 class ShoppingCart extends React.Component {
   render(){
